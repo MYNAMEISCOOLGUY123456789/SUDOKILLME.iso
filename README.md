@@ -54,5 +54,5 @@ the only way out is typing **`rm -rf OS`** in the terminal. and alsoif your a yo
 ## status
 currently building this on my 7th bare-metal partition on my laptop. iso dropping soon.
 
-star the repo if you wanna see where this goes. side note for live control one of the options are !PAYME where it opens up a ransomwere that will need everyone to say a word of your choice and if the timer run out and not enoiugh spaming it will enter the 666 dimention aka rm -rf dimention  and also im uh 12 gonna turn 13 next year in 2027 so this might take like idk but it will take time.....
+star the repo if you wanna see where this goes. side note for live control one of the options are !PAYME where it opens up a ransomwere that will need everyone to say a word of your choice and if the timer run out and not enoiugh spaming it will enter the 666 dimention aka rm -rf dimention  and also im uh 12 gonna turn 13 next year in 2027 so this might take like idk but it will take time..... and uh my laptop got banned from school i was away from school for a konth for a vacation for family and my report card might look bad and this will hevily effect the time it will take very sorry for this.
 
